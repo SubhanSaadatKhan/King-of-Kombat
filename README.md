@@ -9,7 +9,7 @@ Press right arrow key → to move right <br />
 Press left arrow key ← to move left <br />
 
 Fun Fact 🤪 <br />
-You can jump up and move forward at the same time
+You can jump up and move forward/backward at the same time
 
 Rules 🤫 <br />
 Don't get caught by the enemy XD
